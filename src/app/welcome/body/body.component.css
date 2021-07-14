@@ -1,0 +1,28 @@
+
+.carousel-item{
+    background: rgb(101, 221, 97);
+    height: 32rem;
+    text-align: center;
+}
+.img-veg{
+    height: 25rem;
+} 
+.container{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right:0;
+    padding-bottom: 50px;
+}
+h2{
+    color:rgb(3, 88, 3)
+}
+.market{
+    text-align: center;
+    padding-top: 100px;
+    background: rgb(181, 230, 133);
+}
+.btn{
+    color: green;
+    background: rgb(222, 255, 190);
+}
